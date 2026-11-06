@@ -1,0 +1,9 @@
+# URLs for the bundled example. Run against the demo server:
+#   python3 examples/demo_server.py 8123   (in one terminal)
+#   python3 src/redirect_checker.py --file examples/urls.txt
+http://127.0.0.1:8123/ok
+http://127.0.0.1:8123/old
+http://127.0.0.1:8123/a
+http://127.0.0.1:8123/loop1
+http://127.0.0.1:8123/long1
+http://127.0.0.1:8123/gone
